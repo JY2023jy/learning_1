@@ -1,2 +1,1 @@
-secondProject
-두번째 연습용
+git hub 공부 테스트용
